@@ -1,0 +1,1 @@
+// Archivo principal App.js en español
