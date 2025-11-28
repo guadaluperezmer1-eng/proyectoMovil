@@ -1,0 +1,1 @@
+// Pantalla de detalle de evento en español
