@@ -1,0 +1,1 @@
+// Pantalla de inicio en español
